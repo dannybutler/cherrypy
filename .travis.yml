@@ -7,3 +7,4 @@ python:
 install:
   - python setup.py bdist_wheel
   - nosetests -s test/
+  
